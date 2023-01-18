@@ -1,5 +1,4 @@
 a = int(input())
-r=[]
 for i in range(a):
     b = input().split()
     for j in b:
